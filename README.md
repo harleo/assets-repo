@@ -1,2 +1,2 @@
-# img-repo
+# assets-repo
 My repository for offsite/onsite images
